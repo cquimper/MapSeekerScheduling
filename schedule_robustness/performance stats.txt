@@ -1,0 +1,25 @@
+performance statistics for schedule paper
+
+10 entries (1 example per each combination of options, 1200 tables in total):
+ metadata generation: 00h06m36s or    396s
+     formulae search: 01h12m09s or   4329s
+resource ctrs search: 00h00m18s or     18s
+
+
+100 entries (1 example per each combination of options, 1200 tables in total):
+ metadata generation: 00h37m30s or   2250s
+     formulae search: 02h41m55s or   9715s
+resource ctrs search: 00h00m47s or     47s
+
+
+1000 entries (1 example per each combination of options, 1200 tables in total):
+ metadata generation: 03h42m09s or  13329s
+     formulae search: 03h20m45s or  12045s
+resource ctrs search: 00h03m36s or    216s
+
+
+10000 entries (1 example per each combination of options, 1200 tables in total):
+ metadata generation: 03h17m31s or  11851s
+     formulae search: 04h57m39s or  17859s
+resource ctrs search: 00h31m25s or   2485s
+
